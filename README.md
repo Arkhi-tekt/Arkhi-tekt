@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arkhi-tekt
 - 👀 I’m interested in Web Development, Blockchain and AI
-- 🌱 I’m currently learning Full Stack Web Develpment and Databases
+- 🌱 I’m currently learning Full Stack Web Development and Databases
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ...will update soon
 
